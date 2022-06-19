@@ -1,0 +1,10 @@
+.postContainer {
+    max-width: 700px;
+}
+.posts {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1rem;
+}

@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+}
+.header p {
+    color: grey;
+}
+.heading2Xl {
+    font-size: 2rem;
+    /* line-height: 1.2; */
+    margin: 0;
+    font-weight: 800;
+}
+
+.borderCircle {
+    border-radius: 9999px;
+}
